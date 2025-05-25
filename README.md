@@ -121,12 +121,15 @@ python app.py
 ```bash
 http://127.0.0.1:5000
 ```
-## 🌟 Contribute & Contact
-- You can fork the repo, submit pull requests, or suggest improvements.
- 
-For contact send an email to:  
-📧 **ghoshsayan5205@gmail.com**
+## 📬 Connect with Me
 
+<div align="left">
+
+[![LinkedIn - Sayan Ghosh](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)][reach_linkedin]  
+[![Gmail - sayan520](https://img.shields.io/badge/Gmail-sayan520-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)][reach_gmail]  
+[![Instagram - @mr_saayaann](https://img.shields.io/badge/Instagram-@mr_saayaann-pink?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)][reach_instagram]
+
+</div>
 ---
 
 ## 📜 License
@@ -135,3 +138,8 @@ This project is open-source and free to use for educational and personal project
 ---
 
 **Take Care & Happy Coding! 💻🚀**
+
+<!-- CONTACT LINKS -->
+[reach_linkedin]: https://linkedin.com/in/sayaan-ghosh  
+[reach_gmail]: mailto:ghoshsayan5205@gmail.com?subject=GitHub  
+[reach_instagram]: https://www.instagram.com/mr_saayaann
